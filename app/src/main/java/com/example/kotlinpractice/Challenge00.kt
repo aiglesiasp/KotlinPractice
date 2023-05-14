@@ -2,10 +2,9 @@ package com.example.kotlinpractice
 
 class Challenge00 {
 /*
- * Reto #0
- * EL FAMOSO "FIZZ BUZZ"
- * Dificultad: FÁCIL
- * Enunciado: Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión),
+ * RETO #0: EL FAMOSO "FIZZ BUZZ”
+ *
+ * Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión),
  * sustituyendo los siguientes:
  * - Múltiplos de 3 por la palabra "fizz".
  * - Múltiplos de 5 por la palabra "buzz".
